@@ -12,5 +12,5 @@ Stage 0 (project foundation) has not started. The repo root is reserved for the 
 
 | Path | What it is |
 | --- | --- |
-| `prototypes/lupyana-static/` | Static bilingual prototype of the Lupyana website. Content-driven by `config.js`, with confirmed/pending status and preview/live modes. Used as the blueprint for the website module and as the pilot demo. |
-| `prototypes/lupyana-polyclinic/` | Production-quality static build of the Lupyana Polyclinic website: 8 pages, EN/SW switcher, editable `content.json`, no build step. Bricolage Grotesque + Onest typography and the supplied clinic logo. See its own `README.md` for setup, placeholder guide and Figma handoff. |
+| `prototypes/lupyana-polyclinic/` | Lupyana Polyclinic website prototype with the clinic's real contact details, Swahili, motion and SEO files. Content comes from `content.json`. |
+| `docs/lupyana/` | Clinic proposal and requirements, the homepage mockup and the 8B prompt. |
